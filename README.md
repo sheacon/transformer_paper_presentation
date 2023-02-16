@@ -25,3 +25,4 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 - Paper itself again
 - LSTM predecessor
 - Subsequent models and improvements
+- [Presentation video](https://learning.oreilly.com/videos/natural-language-processing/0636920373605/0636920373605-video329383/)

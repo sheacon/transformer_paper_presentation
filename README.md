@@ -1,7 +1,7 @@
 # Attention Is All You Need
 
 ## Paper
-A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.03762)”, (2017). This title was so catchy that no less than 50 follow-up papers have included “all you need” in their titles!
+A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.03762)”, (2017).
 
 ## Overview
 - The problem addressed

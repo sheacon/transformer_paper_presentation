@@ -8,6 +8,11 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 - The characterize the approach
 - Brief account of how the problem is addressed
 
+## NLP Historical Review
+- Other methods, their drawbacks
+- How they are still useful/computationally efficient for some tasks
+- Lead into how Transformers improves over that
+
 ## Architecture Overview
 - Formal psuedocode description
 - How differs from previous models (LSTM)

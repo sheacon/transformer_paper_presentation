@@ -3,7 +3,12 @@
 ## Paper
 A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.03762)”, (2017).
 
-## Overview
+## Talk Outline
+- Review paper
+- Review prior NLP approaches
+- Compare application to classification task
+
+## Paper Overview
 
 Transformers are a neural network architecture introduced by Vaswani et al. (2017) for natural language processing tasks. Key components of the architecture include:
 - Multi-head self-attention mechanism: Computes attention scores for input tokens, capturing dependencies irrespective of their positions in the sequence.
@@ -14,7 +19,7 @@ Transformers are a neural network architecture introduced by Vaswani et al. (201
 
 Transformers typically have an encoder-decoder structure for tasks like machine translation, or use only the encoder for tasks like text classification and sentiment analysis.
 
-## Architecture Overview
+### Architecture
 
 ## NLP Previous Approaches
 

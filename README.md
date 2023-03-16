@@ -54,7 +54,6 @@ Transformers use self-attention mechanisms for parallel processing and effective
 ## Critical Analysis
 
 ## Resource Links
-- Paper itself again
 - Word2Vec/GloVe papers/tools
 - RNN papers/tools
 - Subsequent models and improvements

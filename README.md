@@ -25,15 +25,14 @@ Transformers are a neural network with several key components:
 - Positional encoding
 - Feed-forward networks
 
-<img width="394" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226610537-eab94686-7c80-4a7d-903d-e4e65f0860d9.png">
-
+<img width="394" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226613542-85068176-a82f-4f5a-9458-cf438f00dc15.png">
 
 ## Code Demonstration of Classification Task
 - Compare accuracy performance and computation cost
 
 ## Results
 
-![performance](https://user-images.githubusercontent.com/89158603/226527782-86d9b5b8-2865-4f33-803e-a1e4c2a5cffd.png)
+![performance](https://user-images.githubusercontent.com/89158603/226613498-b3b7177d-1516-434f-8051-026bb973aa67.png)
 
 ## Discussion Questions
 - How does self-attention help the model better understand and process the input text?

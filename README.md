@@ -58,7 +58,7 @@ Transformers are a neural network with several key components:
 
 (bilingual evaluation understudy)
 
-## Look Ma', No Attention
+## Business Case: Look Ma', No Attention
 - Do we always need attention?
 - Context-Independent Embeddings (Word2Vec and GloVe)
 - [Classification Task Notebook](classification_task.ipynb)

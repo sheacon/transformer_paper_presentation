@@ -39,7 +39,7 @@ Transformers are a neural network with several key components:
 - Encoder does what with input?
 - Decoder does what with encoder output?
 
-<img width="394" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226613542-85068176-a82f-4f5a-9458-cf438f00dc15.png">
+<img width="149" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226651705-22af9028-3b20-4fe9-a27a-bc569e716b39.png">
 
 ![attention](https://user-images.githubusercontent.com/89158603/226624292-15fe76b2-02e0-49ae-a852-05bd6fd4d982.png)
 

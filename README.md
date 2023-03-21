@@ -39,6 +39,11 @@ Transformers are a neural network with several key components:
 
 <img width="394" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226613542-85068176-a82f-4f5a-9458-cf438f00dc15.png">
 
+![attention](https://user-images.githubusercontent.com/89158603/226624292-15fe76b2-02e0-49ae-a852-05bd6fd4d982.png)
+
+#### Question 2: Does self-attention have computational limitations or downsides?
+- How does efficiency change with sequence length?
+
 ## Results
 
 ![params](https://user-images.githubusercontent.com/89158603/226614603-7c6fb4a5-067c-4edd-ad5f-d979ad42f7a4.png)

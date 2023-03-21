@@ -30,25 +30,28 @@ Transformers are a neural network with several key components:
 
 <img width="394" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226613542-85068176-a82f-4f5a-9458-cf438f00dc15.png">
 
-## Code Demonstration of Classification Task
-- Compare accuracy performance and computation cost
-
 ## Results
 
 ![params](https://user-images.githubusercontent.com/89158603/226614603-7c6fb4a5-067c-4edd-ad5f-d979ad42f7a4.png)
 
 ![performance](https://user-images.githubusercontent.com/89158603/226613498-b3b7177d-1516-434f-8051-026bb973aa67.png)
+(bilingual evaluation understudy)
 
 ## Discussion Questions
 - How does self-attention help the model better understand and process the input text?
 - How does the attention mechanism in the Transformer architecture differ from other techniques like recurrent neural networks (RNNs)?
 
+## Look Ma', No Attention
+- Do we always need attention?
+[Classification Task Notebook]()
+
 ## Critical Analysis
-- A thorough analysis of computational cost at inference time
+- More thorough discussion of computational cost at inference time
 
 ## Resource Links
 - [GloVe](https://nlp.stanford.edu/projects/glove/)
+- [Recurrent Neural Networs](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 - [MoE](https://arxiv.org/abs/1701.06538)
-- Subsequent models and improvements
+- [BLEU](https://en.wikipedia.org/wiki/BLEU)
 - [Presentation video](https://learning.oreilly.com/videos/natural-language-processing/0636920373605/0636920373605-video329383/)
 

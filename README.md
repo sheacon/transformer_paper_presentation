@@ -7,7 +7,7 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 - Review of Transformer Purpose and Architecture
 - Compare with RNNs and CNNs
 - Assess Results
-- Business Use Case / Cost-Benefits
+- Business Use Case / Costs
 
 ## Why The Transformer?
 - Problem: Sequence Transduction (e.g. Machine Translation)

@@ -34,6 +34,8 @@ Transformers are a neural network with several key components:
 
 ## Results
 
+![params](https://user-images.githubusercontent.com/89158603/226614603-7c6fb4a5-067c-4edd-ad5f-d979ad42f7a4.png)
+
 ![performance](https://user-images.githubusercontent.com/89158603/226613498-b3b7177d-1516-434f-8051-026bb973aa67.png)
 
 ## Discussion Questions

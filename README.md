@@ -49,7 +49,7 @@ Transformers are a neural network with several key components:
 ![formal_algo](https://user-images.githubusercontent.com/89158603/226646079-610909d5-2688-4194-801c-13138fe98d6f.png)
 
 (#### Optional Question: What is the benefit of multi-head attention over single-head?)
-- Do the multiple heads do anything different?
+- Does each head do anything different?
 
 ## Results
 

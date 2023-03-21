@@ -40,22 +40,27 @@ Transformers are attention-based neural architectures for NLP tasks, processing 
 
 ### RNN
 
-Recurrent Neural Networks (RNNs), including Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) variants, are sequential models that process input data through hidden states, allowing them to capture temporal dependencies. They dominated NLP before Transformers, which addressed RNNs' limitations, such as difficulty in learning long-range dependencies and lack of parallelism.
+Recurrent Neural Networks (RNNs), including Long Short-Term Memory (LSTM), are sequential models that process input data through hidden states, allowing them to capture temporal dependencies. They dominated NLP before Transformers, which addressed RNNs' limitations, such as difficulty in learning long-range dependencies and lack of parallelism.
 
 Transformers use self-attention mechanisms for parallel processing and effectively learn long-range dependencies, overcoming RNNs' sequential limitations and computational inefficiencies.
 
 ## Code Demonstration of Classification Task
 - Compare accuracy performance and computation cost
 
+## Results
+
+![performance](https://user-images.githubusercontent.com/89158603/226527782-86d9b5b8-2865-4f33-803e-a1e4c2a5cffd.png)
+
 ## Discussion Questions
-- Question 1
-- Question 2
+- How does self-attention help the model better understand and process the input text?
+- How does the attention mechanism in the Transformer architecture differ from other techniques like recurrent neural networks (RNNs)?
 
 ## Critical Analysis
+- A thorough analysis of computational cost at inference time
 
 ## Resource Links
-- Word2Vec/GloVe papers/tools
-- RNN papers/tools
+- [GloVe](https://nlp.stanford.edu/projects/glove/)
+- [MoE](https://arxiv.org/abs/1701.06538)
 - Subsequent models and improvements
 - [Presentation video](https://learning.oreilly.com/videos/natural-language-processing/0636920373605/0636920373605-video329383/)
 

@@ -11,6 +11,9 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 ## Why Transformer?
 - Problem: Sequence Transduction (e.g. Machine Translation)
+
+![performance](https://user-images.githubusercontent.com/89158603/226637249-19c6d3ba-deb8-455d-a773-47df5cd3b8a6.png)
+
 - Existing Approach Limitations
   - RNN and CNN (Performance and Training)
     - Long-Range Dependencies
@@ -24,8 +27,6 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 ![complexity3](https://user-images.githubusercontent.com/89158603/226626954-c7765888-9937-4045-9a38-b75754e820be.png)
 
 ![params](https://user-images.githubusercontent.com/89158603/226624934-499d331a-5a0c-4d31-a5e2-70ee2bbad9f0.png)
-
-![performance](https://user-images.githubusercontent.com/89158603/226637249-19c6d3ba-deb8-455d-a773-47df5cd3b8a6.png)
 
 ### Architecture
 

@@ -23,6 +23,8 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 ![complexity](https://user-images.githubusercontent.com/89158603/226613881-f4542702-38ae-49ec-8bce-7eb4d804ccb0.png)
 
+![params](https://user-images.githubusercontent.com/89158603/226624934-499d331a-5a0c-4d31-a5e2-70ee2bbad9f0.png)
+
 ### Architecture
 
 Transformers are a neural network with several key components:

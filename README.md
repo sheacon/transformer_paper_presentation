@@ -21,7 +21,7 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 ![CNN](https://user-images.githubusercontent.com/89158603/226622988-283456f3-a0af-4476-bfa2-deb9a8114da6.png)
 
-![complexity2](https://user-images.githubusercontent.com/89158603/226626133-47535c28-26d4-4b21-b089-39abe06a0cb3.png)
+![complexity3](https://user-images.githubusercontent.com/89158603/226626954-c7765888-9937-4045-9a38-b75754e820be.png)
 
 ![params](https://user-images.githubusercontent.com/89158603/226624934-499d331a-5a0c-4d31-a5e2-70ee2bbad9f0.png)
 

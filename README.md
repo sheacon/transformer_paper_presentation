@@ -16,9 +16,8 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 - Existing Approach Limitations
   - RNN and CNN (Performance and Training)
-    - Long-Range Dependencies
-    - Parallel Computation
-    - Limited Transfer Learning
+    - Limited Long-Range Dependencies
+    - Difficult Parallel Computation (RNN)
 
 ![RNN](https://user-images.githubusercontent.com/89158603/226617472-66e77c79-bbcf-4b3e-b0cd-522106c11fc5.png)
 

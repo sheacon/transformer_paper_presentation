@@ -67,7 +67,7 @@ Transformers are a neural network with several key components:
 - [Classification Task Notebook](classification_task.ipynb)
 
 ## Critical Analysis
-- More thorough discussion of computational cost at inference time
+- The paper covers the differences in training cost for the different models, but does not discuss computation at inference time at all. A more thorough discussion of computational cost at inference time would provide insight into costs for production systems.
 
 ## Resource Links
 - [GloVe](https://nlp.stanford.edu/projects/glove/)

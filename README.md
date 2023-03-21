@@ -5,7 +5,7 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 ## Talk Outline
 - Review of Transformer Purpose and Architecture
-- Compare with RNNs
+- Compare with RNNs and CNNs
 - Assess Results
 - Question Attention with Use Case
 

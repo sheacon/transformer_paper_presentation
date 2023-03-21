@@ -23,6 +23,7 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 ### Architecture
 
 Transformers are a neural network with several key components:
+- Encoder and decoder stacks
 - Multi-head self-attention mechanism
 - Positional encoding
 - Feed-forward networks

@@ -73,4 +73,5 @@ Transformers are a neural network with several key components:
 - [MoE](https://arxiv.org/abs/1701.06538)
 - [BLEU](https://en.wikipedia.org/wiki/BLEU)
 - [Presentation video](https://learning.oreilly.com/videos/natural-language-processing/0636920373605/0636920373605-video329383/)
+- [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)
 

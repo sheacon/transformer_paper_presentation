@@ -12,7 +12,6 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 ## Why Transformer?
 - Problem: Sequence Transduction (e.g. Machine Translation)
 - Existing Approach Limitations
-  - Context-Independent Embeddings (Word2Vec and GloVe)
   - RNN and CNN (Performance and Training)
     - Long-Range Dependencies
     - Parallelization
@@ -47,12 +46,9 @@ Transformers are a neural network with several key components:
 ![performance](https://user-images.githubusercontent.com/89158603/226613498-b3b7177d-1516-434f-8051-026bb973aa67.png)
 (bilingual evaluation understudy)
 
-## Discussion Questions
-- How does self-attention help the model better understand and process the input text?
-- How does the attention mechanism in the Transformer architecture differ from other techniques like recurrent neural networks (RNNs)?
-
 ## Look Ma', No Attention
 - Do we always need attention?
+- Context-Independent Embeddings (Word2Vec and GloVe)
 - [Classification Task Notebook](classification_task.ipynb)
 
 ## Critical Analysis

@@ -20,6 +20,8 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 ![RNN](https://user-images.githubusercontent.com/89158603/226617472-66e77c79-bbcf-4b3e-b0cd-522106c11fc5.png)
 
+![CNN](https://user-images.githubusercontent.com/89158603/226622988-283456f3-a0af-4476-bfa2-deb9a8114da6.png)
+
 ![complexity](https://user-images.githubusercontent.com/89158603/226613881-f4542702-38ae-49ec-8bce-7eb4d804ccb0.png)
 
 ### Architecture

@@ -9,7 +9,7 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 - Assess Results
 - Business Use Case / Cost-Benefits
 
-## Why Transformer?
+## Why The Transformer?
 - Problem: Sequence Transduction (e.g. Machine Translation)
 
 ![performance](https://user-images.githubusercontent.com/89158603/226637249-19c6d3ba-deb8-455d-a773-47df5cd3b8a6.png)

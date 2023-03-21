@@ -43,7 +43,7 @@ Transformers are a neural network with several key components:
 
 ## Look Ma', No Attention
 - Do we always need attention?
-[Classification Task Notebook]()
+[Classification Task Notebook](classification_task.ipynb)
 
 ## Critical Analysis
 - More thorough discussion of computational cost at inference time

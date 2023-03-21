@@ -5,8 +5,8 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 
 ## Talk Outline
 - Review Purpose and Architecture of Transformer Models
-- Compare with RNNs and CNNs
 - Assess Results
+- Compare with RNNs and CNNs
 - Counterpoint Business Case / Costs
 
 ## Why The Transformer?

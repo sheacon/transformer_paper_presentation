@@ -52,6 +52,7 @@ Transformers are a neural network with several key components:
 
 ## Resource Links
 - [GloVe](https://nlp.stanford.edu/projects/glove/)
+- [Sequence to Sequence Learning (2014)](https://arxiv.org/abs/1409.3215)
 - [Recurrent Neural Networs](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 - [MoE](https://arxiv.org/abs/1701.06538)
 - [BLEU](https://en.wikipedia.org/wiki/BLEU)

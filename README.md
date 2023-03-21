@@ -31,10 +31,10 @@ Transformers are a neural network with several key components:
 - Feed-forward networks
 
 ![encoder_decoder](https://user-images.githubusercontent.com/89158603/226618259-bf38f44d-e723-49a3-b978-d4a3c8fe2ad3.png)
-- Encoder: extract semantic information from input
-- Decoder: use semantic information to produce output
 
 #### Question 1: Why does the encoder-decoder structure make sense for translation? How do these two components work together?
+- Encoder does what with input?
+- Decoder does what with encoder output?
 
 
 <img width="394" alt="architecture" src="https://user-images.githubusercontent.com/89158603/226613542-85068176-a82f-4f5a-9458-cf438f00dc15.png">

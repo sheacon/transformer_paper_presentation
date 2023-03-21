@@ -36,7 +36,8 @@ Transformers are a neural network with several key components:
 
 ![encoder_decoder](https://user-images.githubusercontent.com/89158603/226618259-bf38f44d-e723-49a3-b978-d4a3c8fe2ad3.png)
 
-#### Question 1: Why does the encoder-decoder structure make sense for translation? How do these two components work together?
+#### Question 1: Why does the encoder-decoder structure make sense for translation?
+- How do these two components work together?
 - Encoder does what with input?
 - Decoder does what with encoder output?
 

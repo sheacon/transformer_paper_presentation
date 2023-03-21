@@ -10,7 +10,7 @@ A. Vaswani et al., “[Attention Is All You Need](https://arxiv.org/abs/1706.037
 - Business Use Case / Costs
 
 ## Why The Transformer?
-- Problem: Sequence Transduction (e.g. Language Translation)
+- Task: Sequence Transduction (e.g. Language Translation)
 - Approach Novelty: Self-Attention Mechanism
 
 ![performance](https://user-images.githubusercontent.com/89158603/226637249-19c6d3ba-deb8-455d-a773-47df5cd3b8a6.png)
